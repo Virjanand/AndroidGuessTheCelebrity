@@ -6,6 +6,8 @@ randomly selected names from the same website.
 # ToDo
 - [x] Display one image in top half of screen
 - [x] Display 4 buttons in bottom half of screen
+- [ ] Download text of http://cdn.posh24.se/kandisar
+- [ ] Filter <img src="http://cdn.posh24.se/images/:profile/0c0a0c119a1d107c149fabd0eb559d229" alt="Kim Kardashian"/> parts
 - [ ] Display name in button in bottom half of screen
 - [ ] Display 3 random names in other buttons
 - [ ] Suffle buttons
